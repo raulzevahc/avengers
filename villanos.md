@@ -1,3 +1,4 @@
 # Villanos
 
-* Lex Luthor
+* Dr. Doom
+* RedSkull
